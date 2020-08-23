@@ -1,1 +1,1 @@
-CaiNiao v1.2.21
+CaiNiao v1.2.22
